@@ -64,8 +64,5 @@ futEr6crxky587rKdqa8pVraFgEQCwadaYg3sPmxWNA.json
 
 # Alternatively, to ignore all JSON files
 *.json
-
-# If you want to ignore all JSON files except specific ones
-# *.json
-# !package.json
-# !package-lock.json
+!package.json
+!package-lock.json
