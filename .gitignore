@@ -59,9 +59,6 @@ coverage/
 *.seed
 *.pid.lock
 
-# Ignore specific JSON file
-futEr6crxky587rKdqa8pVraFgEQCwadaYg3sPmxWNA.json
-
 # Alternatively, to ignore all JSON files
 *.json
 !package.json
