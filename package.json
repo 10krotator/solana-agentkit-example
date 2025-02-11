@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "solana-agent-kit": "^1.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.1"
   }
 }
